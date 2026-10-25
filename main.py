@@ -40,7 +40,7 @@ class LoginWindow(ctk.CTk):
         
         self.label.configure(text="Main Menu")
         
-        ctk.CTkButton(self, text="Launch Live Simulation", command=lambda: subprocess.Popen([sys.executable, "ems_dashboard.py"])).pack(pady=10)
+        ctk.CTkButton(self, text="Launch Live Simulation", command=lambda: subprocess.Popen([sys.executable, "ems_dispatcher.py"])).pack(pady=10)
         ctk.CTkButton(self, text="View Analytics", command=lambda: subprocess.Popen([sys.executable, "analytics.py"]), fg_color="#10b981", hover_color="#059669").pack(pady=10)
 
 if __name__ == "__main__":
