@@ -1,0 +1,7 @@
+Dispatch ID,Timestamp,Hazard Type,Location,Base ETA,Detour ETA,Time Saved
+27,2026-10-25 19:07:29,Construction,North Junction to Uptown,15,7,23
+28,2026-10-25 19:07:34,Construction,Dispatch Base to West Side,15,10,20
+29,2026-10-25 19:07:39,Weather,Global Network,15,12,13
+30,2026-10-25 19:07:44,Construction,Uptown to Highway A,15,3,27
+31,2026-10-25 19:07:49,Construction,North Junction to Uptown,15,4,26
+32,2026-10-25 19:07:54,Accident,North Junction to Uptown,15,3,57

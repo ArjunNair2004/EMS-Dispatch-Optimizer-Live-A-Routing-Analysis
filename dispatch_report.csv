@@ -1,5 +1,0 @@
-dispatch_id,timestamp,hazard_type,location,base_eta,detour_eta,time_saved
-1,2026-10-25 18:10:09,Construction,Dispatch Base to West Side,15,17,13
-2,2026-10-25 18:10:14,Weather,Global Network,15,36,-11
-3,2026-10-25 18:10:19,Accident,Dispatch Base to West Side,15,17,43
-4,2026-10-25 18:10:24,Weather,Global Network,15,36,-11
